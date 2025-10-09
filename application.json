@@ -22,6 +22,14 @@
     {
       "id": "Page1",
       "isDefault": false
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
+    },
+    {
+      "id": "Page3",
+      "isDefault": false
     }
   ],
   "unpublishedAppLayout": {
